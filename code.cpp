@@ -44,6 +44,6 @@ void loop()
       
       
       digitalWrite(servo_pins[SERVOS], LOW);
-      delay(53);
+      delay(500);
     }  
 }      

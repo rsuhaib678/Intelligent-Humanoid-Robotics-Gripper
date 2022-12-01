@@ -1,5 +1,5 @@
 # Intelligent-Humanoid-Robotics-Gripper
-I completed this project as a part of my bachelor dissertation. It involve following concepts Robotics, Mechanical Design, CAE simulation, Arduino Programming and Electronics & Sensor integeration.
+I completed this project as a part of my undergraduate dissertation. It involve following concepts Robotics, Mechanical Design, CAE simulation, Arduino Programming and Electronics & Sensor integeration.
 
 https://github.com/suhaibrehman/Intelligent-Humanoid-Robotics-Gripper/blob/main/MD-06_Thesis.pdf 
 
